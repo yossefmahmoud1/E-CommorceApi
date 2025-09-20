@@ -52,6 +52,13 @@ The project is structured using **Onion Architecture** combined with **CQRS** fo
 - **JWT Authentication**
 
 ---
+### 🧅 Onion Architecture Overview
+<img width="1006" height="758" alt="Architecture Overview" src="https://github.com/user-attachments/assets/9bfe662c-e2b8-412a-99d0-bbc018f60d8c" />
+
+### ⚡ Project Workflow
+<img width="1723" height="725" alt="Project Workflow" src="https://github.com/user-attachments/assets/814bf14e-d40e-471a-81ac-fd1f78ccee0e" />
+
+
 
 ## 🛠️ Getting Started
 
