@@ -1,0 +1,10 @@
+# تجاهل ملفات الإعدادات المحلية
+appsettings.json
+appsettings.Development.json
+appsettings.Local.json
+secrets.json
+*.user
+
+# مجلدات البناء
+bin/
+obj/
